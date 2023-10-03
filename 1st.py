@@ -1,0 +1,1 @@
+print ('strt learning pythong')
